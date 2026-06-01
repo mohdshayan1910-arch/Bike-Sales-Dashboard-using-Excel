@@ -17,6 +17,7 @@ Demonstrate Excel data analysis and visualization skills.
 - Data Cleaning
 - Conditional Formatting
 - Dashboard Design
+
 📊 Dashboard Insights
 - Comparison of bike purchases by gender.
 - Relationship between customer income and bike purchases.
@@ -51,7 +52,3 @@ The dashboard enables businesses to understand customer behavior, identify targe
 
 Created by: Mohd Shayan
 Role: Aspiring Data Analyst
-
-Repository Topics
-
-excel data-analysis dashboard bike-sales eda pivot-table data-visualization business-intelligence
